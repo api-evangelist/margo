@@ -1,0 +1,44 @@
+aid: margo
+name: Margo
+description: >-
+  Margo is a Linux Foundation open standard initiative for interoperability at the edge of industrial automation ecosystems. Founded by ABB, Capgemini, Microsoft, Rockwell Automation, Schneider Electric, and Siemens, it defines mechanisms for interoperability between edge applications, devices, and orchestration software.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Edge
+  - Industrial
+  - Interoperability
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/margo/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: margo:margo-api
+    name: Margo API
+    description: >-
+      Programmatic access to Margo edge interoperability specifications, industrial automation APIs, and orchestration tools.
+    humanURL: https://margo.org/specifications/
+    tags:
+  - Edge
+  - Industrial
+  - Interoperability
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://margo.org/specifications/
+common:
+  - type: Documentation
+    name: Margo Documentation
+    description: Official documentation for Margo.
+    url: https://margo.org/specifications/
+  - type: GitHubOrg
+    name: Margo GitHub
+    description: Source code and repositories for Margo.
+    url: https://github.com/margo
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
