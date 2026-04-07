@@ -23,10 +23,10 @@ apis:
       Programmatic access to Margo edge interoperability specifications, industrial automation APIs, and orchestration tools.
     humanURL: https://margo.org/specifications/
     tags:
-  - Edge
-  - Industrial
-  - Interoperability
-  - Linux Foundation
+      - Edge
+      - Industrial
+      - Interoperability
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://margo.org/specifications/
