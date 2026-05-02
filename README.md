@@ -13,20 +13,22 @@ Margo is a Linux Foundation open standard initiative for interoperability at the
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Margo API
-Programmatic access to Margo edge interoperability specifications, industrial automation APIs, and orchestration tools.
+### Margo Specification
+Margo defines an open standard specification for interoperability of edge applications, devices, and orchestration software in industrial automation. The specification is in pre-draft stage and includes an application registry covering app/device interfaces. No public REST APIs are published; reference implementation is provided via the Margo sandbox.
 
-**Human URL:** [https://margo.org/specifications/](https://margo.org/specifications/)
+**Human URL:** [https://docs.margo.org/](https://docs.margo.org/)
 
 #### Tags:
- - Edge, Industrial, Interoperability, Linux Foundation
+ - Edge, Industrial, Interoperability, Linux Foundation, Specification
 
 #### Properties
-- [Documentation](https://margo.org/specifications/)
+- [Documentation](https://docs.margo.org/)
+- [Specification](https://docs.margo.org/specification/applications/application-registry)
+- [SourceCode](https://github.com/margo/sandbox)
 
 ## Common Properties
 - [Documentation](https://margo.org/specifications/)
