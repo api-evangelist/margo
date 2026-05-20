@@ -36,6 +36,8 @@ apis:
       - type: SourceCode
         url: https://github.com/margo/sandbox
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/margoproject
   - type: Documentation
     name: Margo Documentation
     description: Official documentation for Margo.
