@@ -36,6 +36,8 @@ apis:
       - type: SourceCode
         url: https://github.com/margo/sandbox
 common:
+  - type: DomainSecurity
+    url: security/margo-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/margoproject
   - type: Documentation
@@ -46,6 +48,8 @@ common:
     name: Margo GitHub
     description: Source code and repositories for Margo.
     url: https://github.com/margo
+  - url: https://margo.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
