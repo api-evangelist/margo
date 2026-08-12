@@ -48,6 +48,12 @@ apis:
       - type: SourceCode
         url: https://github.com/margo/sandbox
 common:
+  - type: IssueTracker
+    url: https://github.com/margo/sandbox/issues
+  - type: Releases
+    url: https://github.com/margo/sandbox/releases
+  - type: ContributionGuide
+    url: https://github.com/margo/sandbox/blob/main/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/margo-domain-security.yml
   - type: LinkedIn
