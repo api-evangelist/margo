@@ -3,6 +3,17 @@ name: Margo
 description: >-
   Margo is a Linux Foundation open standard initiative for interoperability at the edge of industrial automation ecosystems. Founded by ABB, Capgemini, Microsoft, Rockwell Automation, Schneider Electric, and Siemens, it defines mechanisms for interoperability between edge applications, devices, and orchestration software.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
