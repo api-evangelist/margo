@@ -59,6 +59,8 @@ apis:
       - type: SourceCode
         url: https://github.com/margo/sandbox
 common:
+  - type: Website
+    url: https://www.margo.org/
   - type: IssueTracker
     url: https://github.com/margo/sandbox/issues
   - type: Releases
