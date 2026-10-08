@@ -62,6 +62,12 @@ apis:
       - type: SourceCode
         url: https://github.com/margo/sandbox
 common:
+  - type: Plans
+    url: plans/margo-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/margo-rate-limits.yml
+  - type: FinOps
+    url: finops/margo-finops.yml
   - type: Website
     url: https://www.margo.org/
   - type: IssueTracker
